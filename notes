@@ -1,0 +1,81 @@
+Home page 
+http://html.kodesolution.live/html/nonprofit/charity/charityfund-html/v3.4/demo/index-mp-layout2.html
+
+new Affiliation
+http://html.kodesolution.live/html/nonprofit/charity/charityfund-html/v3.4/demo/page-become-a-volunteer.html
+
+about us 
+http://html.kodesolution.live/html/nonprofit/charity/charityfund-html/v3.4/demo/page-about2.html
+
+meet the team 
+http://html.kodesolution.live/html/nonprofit/charity/charityfund-html/v3.4/demo/page-about1.html
+http://html.kodesolution.live/html/nonprofit/charity/charityfund-html/v3.4/demo/page-volunteer-4column.html
+
+FAQ 
+http://html.kodesolution.live/html/nonprofit/charity/charityfund-html/v3.4/demo/page-faq-style2.html
+http://html.kodesolution.live/html/nonprofit/charity/charityfund-html/v3.4/demo/page-faq-style3.html
+
+contact 
+http://html.kodesolution.live/html/nonprofit/charity/charityfund-html/v3.4/demo/page-contact3.html
+
+event
+http://html.kodesolution.live/html/nonprofit/charity/charityfund-html/v3.4/demo/events-grid-3column.html
+
+blog 
+http://html.kodesolution.live/html/nonprofit/charity/charityfund-html/v3.4/demo/blog-extra-infinity-scroll-lazyload.html
+http://html.kodesolution.live/html/nonprofit/charity/charityfund-html/v3.4/demo/blog-single-no-sidebar.html
+
+single blog 
+http://html.kodesolution.live/html/nonprofit/charity/charityfund-html/v3.4/demo/blog-single-no-sidebar.html
+
+Sermon
+for the live 
+
+login
+http://html.kodesolution.live/html/nonprofit/charity/charityfund-html/v3.4/demo/form-login-style2.html
+
+gallery
+http://html.kodesolution.live/html/nonprofit/charity/charityfund-html/v3.4/demo/page-gallery-4col-only-image.html
+
+I was thinking of sampling this layout and put a few of my tweak to it. Here is the structure of the pages 
+
+UI section -> this is the layout for the UI(User Interface)
+Home -> descriptive; very simple not overfilled with info because less is more. 
+
+About Us (dropdown list) -> the about will provide descriptive info about ESCC.
+Our Staff (dropdown list) -> This page will feature the the staffs 
+Mission (dropdown list) -> this page will illustrate the projects that ESCC is working on, future projects... 
+
+Ministries (Section)
+Women's Ministry (dropdown list) -> illustrate the women's ministry and perhaps their goals.
+Children's ministry (dropdown list) -> illustrate the children'd minidtry and their goals.
+Other ministries (dropdown list) -> TBD???
+* in addition i was thinking of a verse referencing the ministry to add to ther page.
+
+Media -> this will provide a list of all the previous services 
+Media single -> when a visitor clicks on a specific service from the media page; They will be able to watch that spefic service. This is a strategy to push our facebook traffic to the site. 
+
+Blog -> I will add a blog section because it will help imporving the SEO (Search Engine Optimization) 
+
+Gallery -> this will be a page to post some pictures related to the church; churched organized events/activities 
+
+Events -> this will be showing all of the opcoming events
+
+Contact Us -> this will include a contact form; users can fill out to reach out to ESCC. In addition, social media links.
+
+Donate -> this will be a button that will be linked to tithly setup
+
+ADMIN PORTAL 
+Admin -> admin will be used to administrate the site. this section will not be accessible to the public. Users will need to gain access to the backend portal. 
+
+* user cannot be registered. someone has to register the user from inside the admin portal. I design it that way because only people who needs access gain access. 
+In addition, this will be used to manage the the blog section, event section, sermon section, and gallery section.
+
+https://css-tricks.com/snippets/html/mailto-links/
+
+https://elshaddai.tithelysetup.com/
+
+Green HEX code #30bf30
+Orange Hey code #ff8214
+
+parallax 1805 x620 
